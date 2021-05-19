@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobyzh" alt="bobyzh" /></a> </p>
 
-- 🔭 I’m currently working on [gohiking-server](https://github.com/monosparta/gohiking-server)
+<!-- - 🔭 I’m currently working on [gohiking-server](https://github.com/monosparta/gohiking-server) -->
 
 - 🌱 I’m currently learning **PHP, Laravel, and Vue.js**
 
