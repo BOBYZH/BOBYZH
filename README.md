@@ -7,11 +7,13 @@
 
 <!-- - 🔭 I’m currently working on [gohiking-server](https://github.com/monosparta/gohiking-server) -->
 
-- 🌱 I’m currently learning **PHP, Laravel, and Vue.js**
+- 🌱 I’m currently learning **PHP, Laravel, Vue.js, and React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BOBYZH?tab=repositories](https://github.com/BOBYZH?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@writtenByBobYZHuang](https://medium.com/@writtenByBobYZHuang)
+
+- 📋 I regularly write notes on [https://hackmd.io/@A4_j5zN8QReqeCKIAq_Q4Q](https://hackmd.io/@A4_j5zN8QReqeCKIAq_Q4Q)
 
 - 📫 How to reach me: **cdmyhome3@gmail.com**
 
