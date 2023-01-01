@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [gohiking-server](https://github.com/monosparta/gohiking-server) -->
 
-- 🌱 I’m currently learning **PHP, Laravel, Vue.js, and React.js**
+- 🌱 I’m currently learning **PHP, Laravel, and Ubuntu Server**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BOBYZH?tab=repositories](https://github.com/BOBYZH?tab=repositories)
 
